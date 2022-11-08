@@ -25,5 +25,4 @@
 <p>In this workshop, data training of a used car base was developed in order to assess the expected selling price of the same, and the selling price at which it was actually sold, the challenge was to analyze whether to reduce the independent variables would get improvement in the coefficient of determination.</p>
 
 ##### File Regressao.ipynb refers to the activity's tutorial;
-
 ##### File regressaolm.ipynb refers to what was produced by me.
